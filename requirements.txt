@@ -1,4 +1,2 @@
-colorama
-futures
-pysocks
-beautifulsoup4
+quicksocketpy
+philh_myftp_biz
